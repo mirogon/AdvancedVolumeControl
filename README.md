@@ -13,4 +13,4 @@ You can also connect your Android device to this application to control it from 
 
 ## Android app
 
-[Get the Android app from Sourceforge] (https://play.google.com/store/apps/details?id=com.m1smr.avc)
+[Get the Android app from Sourceforge](https://play.google.com/store/apps/details?id=com.m1smr.avc)
